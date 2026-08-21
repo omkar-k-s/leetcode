@@ -1,51 +1,58 @@
-# 🚀 LeetCode Solutions & DSA Journey
+# 🚀 LeetCode Practice
 
-[![Python](https://img.shields.io/badge/Language-Python_3.x-blue.svg)](https://python.org)
-[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange.svg)](https://leetcode.com/)
+Welcome to my LeetCode repository!
 
-Welcome to my LeetCode repository! 
-
-This space serves as a log of my journey mastering **Data Structures & Algorithms (DSA)**. Inside, you'll find my optimized Python solutions to various coding challenges, built to refine my problem-solving skills and prepare for high-level technical interviews.
+This repository contains my Python solutions to LeetCode problems. I regularly solve coding problems to improve my Data Structures & Algorithms (DSA) skills and prepare for technical interviews.
 
 ---
 
-## 📚 Core Topics 
+## 👨‍💻 Language
 
-I am actively tackling problems across the following domains:
-
-| Data Structures | Algorithms & Techniques |
-| :--- | :--- |
-| 🔹 Arrays & Strings | 🔹 Binary Search & Two Pointers |
-| 🔹 Hash Maps | 🔹 Sliding Window |
-| 🔹 Linked Lists | 🔹 Recursion & Backtracking |
-| 🔹 Stacks & Queues | 🔹 Greedy Algorithms |
-| 🔹 Trees & Binary Trees | 🔹 Dynamic Programming |
-| 🔹 Graphs | 🔹 Depth/Breadth-First Search |
+- Python 🐍
 
 ---
 
-## 🎯 Objectives
+## 📚 Topics Covered
 
-- **Consistency:** Maintain a steady problem-solving streak.
-- **Optimization:** Focus on improving time (Big O) and space complexities.
-- **Pattern Recognition:** Master algorithmic patterns rather than just memorizing solutions.
-- **Code Quality:** Write clean, readable, and highly efficient Python code.
+- Arrays
+- Strings
+- Hash Maps
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Trees
+- Binary Search
+- Recursion
+- Backtracking
+- Sliding Window
+- Two Pointers
+- Greedy Algorithms
+- Dynamic Programming
+- Graphs
 
 ---
 
-## 🛠 Tools & Technologies
+## 🎯 Goals
 
-- **Language:** Python 🐍
-- **Version Control:** Git & GitHub
-- **Platform:** LeetCode
+- Solve LeetCode problems consistently
+- Improve problem-solving skills
+- Learn optimized algorithms
+- Prepare for coding interviews
 
 ---
 
-## 🔗 Let's Connect
+## 🛠 Tools
 
-Feel free to reach out for discussions, feedback on my solutions, or just to network!
+- Python
+- Git & GitHub
+- LeetCode
 
-- **GitHub:** [@omkar-k-s](https://github.com/omkar-k-s)
+---
+
+## 🔗 Connect
+
+- **GitHub:** [omkar-k-s](https://github.com/omkar-k-s)
 - **LinkedIn:** [Omkar K S](https://www.linkedin.com/in/omkar-k-s-4b9911324)
 
-⭐ *If you find these solutions helpful, feel free to drop a star on this repository. Happy Coding!*
+⭐ Happy Coding!
