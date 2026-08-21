@@ -1,58 +1,51 @@
-# 🚀 LeetCode Practice
+# 🚀 LeetCode Solutions & DSA Journey
 
-Welcome to my LeetCode repository!
+[![Python](https://img.shields.io/badge/Language-Python_3.x-blue.svg)](https://python.org)
+[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange.svg)](https://leetcode.com/)
 
-This repository contains my Python solutions to LeetCode problems. I regularly solve coding problems to improve my Data Structures & Algorithms (DSA) skills and prepare for technical interviews.
+Welcome to my LeetCode repository! 
 
----
-
-## 👨‍💻 Language
-
-- Python 🐍
+This space serves as a log of my journey mastering **Data Structures & Algorithms (DSA)**. Inside, you'll find my optimized Python solutions to various coding challenges, built to refine my problem-solving skills and prepare for high-level technical interviews.
 
 ---
 
-## 📚 Topics Covered
+## 📚 Core Topics 
 
-- Arrays
-- Strings
-- Hash Maps
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Trees
-- Binary Search
-- Recursion
-- Backtracking
-- Sliding Window
-- Two Pointers
-- Greedy Algorithms
-- Dynamic Programming
-- Graphs
+I am actively tackling problems across the following domains:
+
+| Data Structures | Algorithms & Techniques |
+| :--- | :--- |
+| 🔹 Arrays & Strings | 🔹 Binary Search & Two Pointers |
+| 🔹 Hash Maps | 🔹 Sliding Window |
+| 🔹 Linked Lists | 🔹 Recursion & Backtracking |
+| 🔹 Stacks & Queues | 🔹 Greedy Algorithms |
+| 🔹 Trees & Binary Trees | 🔹 Dynamic Programming |
+| 🔹 Graphs | 🔹 Depth/Breadth-First Search |
 
 ---
 
-## 🎯 Goals
+## 🎯 Objectives
 
-- Solve LeetCode problems consistently
-- Improve problem-solving skills
-- Learn optimized algorithms
-- Prepare for coding interviews
-
----
-
-## 🛠 Tools
-
-- Python
-- Git & GitHub
-- LeetCode
+- **Consistency:** Maintain a steady problem-solving streak.
+- **Optimization:** Focus on improving time (Big O) and space complexities.
+- **Pattern Recognition:** Master algorithmic patterns rather than just memorizing solutions.
+- **Code Quality:** Write clean, readable, and highly efficient Python code.
 
 ---
 
-## 🔗 Connect
+## 🛠 Tools & Technologies
 
-- **GitHub:** [omkar-k-s](https://github.com/omkar-k-s)
+- **Language:** Python 🐍
+- **Version Control:** Git & GitHub
+- **Platform:** LeetCode
+
+---
+
+## 🔗 Let's Connect
+
+Feel free to reach out for discussions, feedback on my solutions, or just to network!
+
+- **GitHub:** [@omkar-k-s](https://github.com/omkar-k-s)
 - **LinkedIn:** [Omkar K S](https://www.linkedin.com/in/omkar-k-s-4b9911324)
 
-⭐ Happy Coding!
+⭐ *If you find these solutions helpful, feel free to drop a star on this repository. Happy Coding!*
