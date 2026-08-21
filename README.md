@@ -8,11 +8,11 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 
 ## 👨‍💻 Language
 
-- Python
+- Python 🐍
 
 ---
 
-## 📚 Topics  which Gona Covere
+## 📚 Topics Covered
 
 - Arrays
 - Strings
@@ -45,16 +45,14 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 ## 🛠 Tools
 
 - Python
-- Git
-- GitHub
+- Git & GitHub
 - LeetCode
 
 ---
 
 ## 🔗 Connect
 
-**GitHub:** https://github.com/omkar-k-s
-
-**LinkedIn:** https://www.linkedin.com/in/omkar-k-s-4b9911324
+- **GitHub:** [omkar-k-s](https://github.com/omkar-k-s)
+- **LinkedIn:** [Omkar K S](https://www.linkedin.com/in/omkar-k-s-4b9911324)
 
 ⭐ Happy Coding!
