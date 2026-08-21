@@ -8,7 +8,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 
 ## 👨‍💻 Language
 
-- Python
+- Python   
 
 ---
 
