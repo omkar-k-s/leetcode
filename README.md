@@ -63,10 +63,12 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,4 +85,8 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
+## Array
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
