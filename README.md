@@ -98,4 +98,12 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
