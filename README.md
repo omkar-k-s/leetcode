@@ -109,6 +109,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omkar-k-s/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -134,6 +135,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0678-valid-parenthesis-string](https://github.com/omkar-k-s/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omkar-k-s/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Matrix
 |  |
 | ------- |
