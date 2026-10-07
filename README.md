@@ -70,6 +70,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0020-valid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/omkar-k-s/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/omkar-k-s/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -82,6 +83,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
