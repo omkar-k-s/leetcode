@@ -105,6 +105,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1306-jump-game-iii](https://github.com/omkar-k-s/leetcode/tree/master/1306-jump-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkar-k-s/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1306-jump-game-iii](https://github.com/omkar-k-s/leetcode/tree/master/1306-jump-game-iii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -189,4 +191,8 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/omkar-k-s/leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
