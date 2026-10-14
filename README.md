@@ -143,6 +143,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/omkar-k-s/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +166,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omkar-k-s/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/omkar-k-s/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
