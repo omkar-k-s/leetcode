@@ -66,6 +66,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/omkar-k-s/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omkar-k-s/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omkar-k-s/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
@@ -126,6 +128,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [2778-sum-of-squares-of-special-elements](https://github.com/omkar-k-s/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/omkar-k-s/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omkar-k-s/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
