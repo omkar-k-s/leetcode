@@ -112,6 +112,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/omkar-k-s/leetcode/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omkar-k-s/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omkar-k-s/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -123,6 +124,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omkar-k-s/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omkar-k-s/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -184,6 +186,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkar-k-s/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omkar-k-s/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
