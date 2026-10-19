@@ -122,6 +122,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0004-median-of-two-sorted-arrays](https://github.com/omkar-k-s/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1306-jump-game-iii](https://github.com/omkar-k-s/leetcode/tree/master/1306-jump-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkar-k-s/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omkar-k-s/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
