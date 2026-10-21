@@ -83,6 +83,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/omkar-k-s/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,6 +166,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0678-valid-parenthesis-string](https://github.com/omkar-k-s/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omkar-k-s/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Matrix
@@ -250,4 +252,12 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
