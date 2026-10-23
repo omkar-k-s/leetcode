@@ -66,6 +66,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/omkar-k-s/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/omkar-k-s/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omkar-k-s/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -84,6 +85,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/omkar-k-s/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
 | ------- |
