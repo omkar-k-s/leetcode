@@ -87,6 +87,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/omkar-k-s/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/omkar-k-s/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/omkar-k-s/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,6 +216,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/omkar-k-s/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -281,4 +283,12 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/omkar-k-s/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/omkar-k-s/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
