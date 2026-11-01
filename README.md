@@ -127,6 +127,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omkar-k-s/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/omkar-k-s/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1306-jump-game-iii](https://github.com/omkar-k-s/leetcode/tree/master/1306-jump-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkar-k-s/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -164,6 +165,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/omkar-k-s/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/omkar-k-s/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
