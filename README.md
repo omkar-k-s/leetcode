@@ -135,6 +135,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omkar-k-s/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1306-jump-game-iii](https://github.com/omkar-k-s/leetcode/tree/master/1306-jump-game-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/omkar-k-s/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/omkar-k-s/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkar-k-s/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -178,6 +179,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/omkar-k-s/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omkar-k-s/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/omkar-k-s/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/omkar-k-s/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/omkar-k-s/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -190,6 +192,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [0032-longest-valid-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/omkar-k-s/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/omkar-k-s/leetcode/tree/master/0788-rotated-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/omkar-k-s/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/omkar-k-s/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -307,6 +310,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/omkar-k-s/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/omkar-k-s/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
