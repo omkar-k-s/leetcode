@@ -86,6 +86,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/omkar-k-s/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/omkar-k-s/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/omkar-k-s/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/omkar-k-s/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/omkar-k-s/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -197,6 +198,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omkar-k-s/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/omkar-k-s/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/omkar-k-s/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/omkar-k-s/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -325,6 +327,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/omkar-k-s/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/omkar-k-s/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Queue
 |  |
 | ------- |
