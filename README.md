@@ -87,6 +87,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/omkar-k-s/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/omkar-k-s/leetcode/tree/master/1871-jump-game-vii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/omkar-k-s/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/omkar-k-s/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/omkar-k-s/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/omkar-k-s/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/omkar-k-s/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
