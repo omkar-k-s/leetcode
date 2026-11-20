@@ -126,6 +126,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/omkar-k-s/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omkar-k-s/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omkar-k-s/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/omkar-k-s/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omkar-k-s/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/omkar-k-s/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -149,6 +150,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [2778-sum-of-squares-of-special-elements](https://github.com/omkar-k-s/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/omkar-k-s/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/omkar-k-s/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/omkar-k-s/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/omkar-k-s/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/omkar-k-s/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -200,6 +202,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omkar-k-s/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/omkar-k-s/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/omkar-k-s/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/omkar-k-s/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/omkar-k-s/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/omkar-k-s/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
