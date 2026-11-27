@@ -166,6 +166,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/omkar-k-s/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/omkar-k-s/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/omkar-k-s/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/omkar-k-s/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/omkar-k-s/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omkar-k-s/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/omkar-k-s/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@ This repository contains my Python solutions to LeetCode problems. I regularly s
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/omkar-k-s/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/omkar-k-s/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/omkar-k-s/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
